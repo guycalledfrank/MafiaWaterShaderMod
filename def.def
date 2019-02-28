@@ -1,0 +1,3 @@
+LIBRARY D3D8PROXY
+EXPORTS
+	Direct3DCreateF  @1
